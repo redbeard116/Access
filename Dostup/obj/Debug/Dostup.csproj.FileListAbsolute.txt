@@ -1,0 +1,17 @@
+C:\Users\Sparta\Desktop\Dostup\Dostup\bin\Debug\Dostup.exe.config
+C:\Users\Sparta\Desktop\Dostup\Dostup\bin\Debug\Dostup.exe
+C:\Users\Sparta\Desktop\Dostup\Dostup\bin\Debug\Dostup.pdb
+C:\Users\Sparta\Desktop\Dostup\Dostup\obj\Debug\Dostup.csprojAssemblyReference.cache
+C:\Users\Sparta\Desktop\Dostup\Dostup\obj\Debug\App.g.cs
+C:\Users\Sparta\Desktop\Dostup\Dostup\obj\Debug\Dostup_MarkupCompile.cache
+C:\Users\Sparta\Desktop\Dostup\Dostup\obj\Debug\Dostup_MarkupCompile.lref
+C:\Users\Sparta\Desktop\Dostup\Dostup\obj\Debug\Dostup.g.resources
+C:\Users\Sparta\Desktop\Dostup\Dostup\obj\Debug\Dostup.Properties.Resources.resources
+C:\Users\Sparta\Desktop\Dostup\Dostup\obj\Debug\Dostup.csproj.GenerateResource.cache
+C:\Users\Sparta\Desktop\Dostup\Dostup\obj\Debug\Dostup.csproj.CoreCompileInputs.cache
+C:\Users\Sparta\Desktop\Dostup\Dostup\obj\Debug\Dostup.exe
+C:\Users\Sparta\Desktop\Dostup\Dostup\obj\Debug\Dostup.pdb
+C:\Users\Sparta\Desktop\Dostup\Dostup\obj\Debug\ViewModel\Profile.g.cs
+C:\Users\Sparta\Desktop\Dostup\Dostup\obj\Debug\View\MainWindow.g.cs
+C:\Users\Sparta\Desktop\Dostup\Dostup\obj\Debug\ViewModel\Profile.baml
+C:\Users\Sparta\Desktop\Dostup\Dostup\obj\Debug\View\MainWindow.baml
